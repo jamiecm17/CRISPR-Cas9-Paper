@@ -18,7 +18,8 @@ Both abf_reader_VP and abf_reader_NAc are designed to quickly analyze folders of
 guppy_fmt takes csv files with GCaMP8f photometry data, cue and reward time data, and mouse xy data and converts it to a guppy-useable format. This data is then uploaded to guppy for analysis (https://github.com/LernerLab/GuPPy).
 ### heatmap_GCaMP
 heatmap_GCaMP extracts photometry data + cue and reward times and uses this to generate heatmaps of GCaMP8f activity surrounding tone cue and reward stimuli.
-![Example heatmap for all reward trials for one subject on one trial day.](image-3.png)
-![Example heatmap for one subject dispaying average reward GCaMP8f response across all trial days.](image-4.png)
+
+
+![Example heatmap for all reward trials for one subject on one trial day.](image-3.png) ![Example heatmap for one subject dispaying average reward GCaMP8f response across all trial days.](image-4.png)
 # Input Parameters
 Input parameters used for analysis in GuPPy.
