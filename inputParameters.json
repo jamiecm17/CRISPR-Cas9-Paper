@@ -1,0 +1,44 @@
+{
+    "abspath": "C:\\Users\\moffa\\Desktop\\School-Research\\Lab\\CRISPRCas9Paper\\GCaMP8fRecordings\\Eeyore",
+    "folderNames": [
+        "C:\\Users\\moffa\\Desktop\\School-Research\\Lab\\CRISPRCas9Paper\\GCaMP8fRecordings\\Eeyore\\2022_10_20_Eeyore",
+        "C:\\Users\\moffa\\Desktop\\School-Research\\Lab\\CRISPRCas9Paper\\GCaMP8fRecordings\\Eeyore\\2022_10_21_Eeyore"
+    ],
+    "combine_data": false,
+    "isosbestic_control": false,
+    "timeForLightsTurnOn": 1,
+    "filter_window": 10,
+    "removeArtifacts": false,
+    "noChannels": 2,
+    "zscore_method": "standard z-score",
+    "baselineWindowStart": 0,
+    "baselineWindowEnd": 0,
+    "nSecPrev": -10,
+    "nSecPost": 20,
+    "timeInterval": 2,
+    "bin_psth_trials": 0,
+    "baselineCorrectionStart": -10,
+    "baselineCorrectionEnd": -5,
+    "peak_startPoint": [
+        -10.0,
+        -2.0,
+        0.0,
+        NaN,
+        NaN
+    ],
+    "peak_endPoint": [
+        -6.0,
+        2.0,
+        2.0,
+        NaN,
+        NaN
+    ],
+    "selectForComputePsth": "Both",
+    "selectForTransientsComputation": "Both",
+    "moving_window": 15,
+    "plot_zScore_dff": "None",
+    "visualize_zscore_or_dff": "z_score",
+    "folderNamesForAvg": [],
+    "averageForGroup": false,
+    "visualizeAverageResults": false
+}
